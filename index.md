@@ -1,5 +1,9 @@
-Here you can say lots of fun things about your site.
+Hi! I'm Yousef Rabi, a self-taught deep learning data scientist and Kaggle competitions master.
 
-Maybe say a some things about yourself.
+In this blog, I'll write about ideas in the computer vision and nlp deep learning literature.
 
-Or maybe what you plan to blog about.
+I'll also write about Kaggle competitions I compete in and cool approaches I come across.
+
+
+
+
